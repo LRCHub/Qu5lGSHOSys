@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ハートの尾ひれ",
+  "base_artist": "リュベンス",
+  "createdAt": "2026-02-07T12:10:21.131704Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハートの尾ひれ",
+      "artist": "リュベンス",
+      "has_synced": false,
+      "path": "select/pl_01_ハートの尾ひれ_リュベンス.txt"
+    }
+  ]
+}
